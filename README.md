@@ -22,7 +22,9 @@ I'm a passionate Cloud Engineer with a strong focus on building and managing sca
 - **Version Control & CI/CD**: 
   - Git
   - GitOps
+  - Github Actions
   - Jenkins
+    
 
 ## 🚀 Projects
 
