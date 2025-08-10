@@ -53,7 +53,7 @@ I'm currently diving deeper into:
   
   **Key Technologies**: Azure, AKS, Kubernetes, Terraform Cloud, FluxCD, Helm, Ansible, Vault, Redis, Kafka, Elastic Stack, Prometheus, GitHub Actions, Atlassian Suite
 
-**[Cloud Solution Engineer]** at [Newlift Holdings Pte Ltd, Singapore ] (2019 - 2024)
+**Cloud Solution Engineer** at [Newlift Holdings Pte Ltd, Singapore ] (2019 - 2024)
 
 - Delivered a multi-AZ IoT monitoring platform for 100+ IoT locations using Milesight UC300, LTE MQTT/TLS, and AWS IoT Core.
 - Built Terraform-managed AWS infrastructure (VPC, ALB, ASG, EC2, S3, Timestream, DynamoDB, Lambda, SNS) with GitHub Actions CI/CD.
