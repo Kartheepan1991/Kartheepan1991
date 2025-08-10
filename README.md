@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Ramakrishnamoorthy Kartheepan]!
+# 👋 Hello, I'm Ramakrishnamoorthy Kartheepan!
 
 I'm a passionate Cloud Engineer with a strong focus on building and managing scalable cloud infrastructure. I have extensive experience in various cloud platforms and tools, and I'm always eager to learn and explore new technologies.
 
