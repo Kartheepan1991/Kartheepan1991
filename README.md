@@ -40,21 +40,13 @@ I'm currently diving deeper into:
 
 ## 💼 Work Experience
 
-- **[Cloud Solution Engineer]** at [Newlift Holdings Pte Ltd, Singapore ] (2019 - 2014)
-- Implemented 24/7 real-time IoT device monitoring system by using AWS ,Azure VPN with
-Customers' Cisco ASA router, and Mile sight router.
-- Involved in migrating physical Linux/Windows servers to cloud and tested it.
-- Designed an Architectural Diagram for different applications before migrating into Amazon
-and Azure cloud for flexible, cost-effective, reliable, scalable, high-performance and secured.
-- Designed and deployed Azure and AWS Site-to-Site VPN connection to securely connect with
-on-premises customer's Gateways .
-- Implemented automation tools and frameworks for automatic code deployments (CI/CD).
-- Developed scripts to automate manual tasks such as provisioning virtual machines (VMs),
-deploying applications and retrieve data from running cloud resources.
-- Built a unified monitoring and alerting solution across AWS and Azure environments, using
-CloudWatch, Azure Monitor, Prometheus, and Grafana.
-- Ensured that client SLAs are strictly adhered to and their primary focus will be on continuous
-performant operations
+- **[Cloud Solution Engineer]** at [Newlift Holdings Pte Ltd, Singapore ] (2019 - 2024)
+
+- Delivered a multi-AZ IoT monitoring platform for 100+ IoT locations using Milesight UC300, LTE MQTT/TLS, and AWS IoT Core.
+- Built Terraform-managed AWS infrastructure (VPC, ALB, ASG, EC2, S3, Timestream, DynamoDB, Lambda, SNS) with GitHub Actions CI/CD.
+- Implemented HA architecture with ALB health checks, scaling policies, and stateless EC2 design for zero-downtime updates.
+- Developed Lambda fault processor with DynamoDB logging and SNS alerts, reducing response time by 40% and network costs by 60%.
+- Created Grafana dashboards and CloudWatch/Synthetics monitoring for real-time telemetry and site health.
 
 
 
