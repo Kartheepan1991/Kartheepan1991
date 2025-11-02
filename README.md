@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ramakrishnamoorthy Kartheepan!
 
-I'm a passionate Cloud Engineer with a strong focus on building and managing scalable cloud infrastructure. I have extensive experience in various cloud platforms and tools, and I'm always eager to learn and explore new technologies.
+I'm a passionate Cloud DevOps Engineer with a strong focus on building and managing scalable cloud infrastructure. I have extensive experience in various cloud platforms and tools, and I'm always eager to learn and explore new technologies.
 
 ## 🌐 Skills
 
@@ -24,14 +24,21 @@ I'm a passionate Cloud Engineer with a strong focus on building and managing sca
   - GitOps
   - Github Actions
   - Jenkins
+ 
+- **DevOps Tools** :
+  - Vault
+  - Kafka
+  - Elastic Stack
+  - Atlassian Suite
     
 
 ## 🚀 Projects
 
 Here are a few projects I've worked on:
 
-- **[Project Name 1](link-to-your-project)**: Brief description of the project and the technologies used.
-- **[Project Name 2](link-to-your-project)**: Brief description of the project and the technologies used.
+- **[Azure AKS Cost Optimisation & Cluster Upgrade]**: Reduced monthly AKS costs by $20k through node right-sizing and auto-scaling.
+- **[Kubernetes GitOps Automation with FluxCD]**: Cut manual AKS deployment effort by 80% using FluxCD, Helm, and GitHub Actions.
+- **[AWS EKS Infrastructure Automation with Terraform and CI/CD]**: Deployed a multi-AZ EKS cluster using Terraform, Argo CD, and GitHub Actions to automate delivery and cut manual effort by 70%.
 
 ## 🌱 Currently Learning
 
@@ -44,12 +51,13 @@ I'm currently diving deeper into:
 
 **Cloud Infrastructure Engineer** at IGT1 Lanka – Permanent Employee | Contracted to Sitecore (US Client, Remote)
 
-- Automated AKS provisioning and migrations, deploying core components via FluxCD, Helm, and Terraform.
-- Redesigned private AKS cluster architectures with Azure Virtual WAN and Private Endpoints to improve cross-region connectivity and security.
-- Led implementation of enterprise observability platform using Prometheus, Grafana, and ELK, enhancing real-time monitoring and issue resolution.
-- Designed and deployed scalable infrastructure solutions in Azure, improving performance and cost-efficiency across environments.
-- Managed deployments of Vault Enterprise, Redis, and Elastic Cloud Enterprise using Infrastructure as Code (IaC) practices with Terraform and FluxCD.
-- Collaborated with cross-functional teams on Kubernetes manifest design and CI/CD troubleshooting in dev, stage, and prod environments.
+- Automated Azure AKS provisioning using Terraform, FluxCD, and Helm, ensuring consistent GitOps-driven deployments.
+- Enhanced AKS architecture by integrating Azure Virtual WAN, Firewalls, Private Endpoints, and DNS, improving cross-region reliability.
+- Led Engineer-on-Duty (EOD) operations for AKS clusters, CosmosDB, Redis, and other cloud services, ensuring 24×7 uptime and incident resolution.
+- Collaborated with cross-cloud teams managing EKS workloads for specific client applications, ensuring unified GitOps pipelines and monitoring using Prometheus & Grafana.
+- Partnered with development teams to optimize CI/CD pipelines and troubleshoot Kubernetes manifests across multiple environments.
+- Configured Prometheus Alertmanager for proactive alerting, integrating with Slack and email channels to improve incident response and reduce MTTR by 30%.
+- Currently leading implementation of AI-powered real-time AKS monitoring for predictive performance and anomaly detection.
   
   **Key Technologies**: Azure, AKS, Kubernetes, Terraform Cloud, FluxCD, Helm, Ansible, Vault, Redis, Kafka, Elastic Stack, Prometheus, GitHub Actions, Atlassian Suite
 
@@ -66,8 +74,10 @@ I'm currently diving deeper into:
 ## 📄 Certifications
 
 - [AWS Certified Solutions Architect – Associate] - [AWS]
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
 - [AZ 900] - [Microsoft]
 - [CCNA] - [Cisco]
+- Fortinet Network Security Expert (NSE) Level 1: Certified Associate
 
 ---
 
