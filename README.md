@@ -51,25 +51,18 @@ I'm currently diving deeper into:
 
 **Cloud Infrastructure Engineer** at IGT1 Lanka – Permanent Employee | Contracted to Sitecore (US Client, Remote)
 
-- Automated Azure AKS provisioning using Terraform, FluxCD, and Helm, ensuring consistent GitOps-driven deployments.
-- Enhanced AKS architecture by integrating Azure Virtual WAN, Firewalls, Private Endpoints, and DNS, improving cross-region reliability.
-- Led Engineer-on-Duty (EOD) operations for AKS clusters, CosmosDB, Redis, and other cloud services, ensuring 24×7 uptime and incident resolution.
-- Collaborated with cross-cloud teams managing EKS workloads for specific client applications, ensuring unified GitOps pipelines and monitoring using Prometheus & Grafana.
-- Partnered with development teams to optimize CI/CD pipelines and troubleshoot Kubernetes manifests across multiple environments.
-- Configured Prometheus Alertmanager for proactive alerting, integrating with Slack and email channels to improve incident response and reduce MTTR by 30%.
-- Currently leading implementation of AI-powered real-time AKS monitoring for predictive performance and anomaly detection.
-  
-  **Key Technologies**: Azure, AKS, Kubernetes, Terraform Cloud, FluxCD, Helm, Ansible, Vault, Redis, Kafka, Elastic Stack, Prometheus, GitHub Actions, Atlassian Suite
+- Automated multi-cloud Kubernetes provisioning using Terraform, Flux CD, and Helm across Azure AKS and AWS EKS, enforcing GitOps driven, repeatable, and secure deployments across dev, staging, and production environments.
+- Built reliable Kubernetes architectures across Azure and AWS, improving availability, fault tolerance, and disaster recovery.
+- Led Engineer-on-Duty (EOD) operations for Azure and AWS platforms and databases, ensuring high availability, rapid incident response, effective root cause analysis, and SLA compliance.
+- Optimized CI/CD pipelines (GitHub Actions, Jenkins) for containerized workloads on AKS and EKS, improving deployment reliability, reducing rollout time, and collaborating closely with development teams on Kubernetes best practices.
+- Directed large-scale on-premises to cloud migrations, supporting multiple production workloads with minimal downtime.
 
 **Cloud Solution Engineer** at [Newlift Holdings Pte Ltd, Singapore ] (2019 - 2024)
 
-- Delivered a multi-AZ IoT monitoring platform for 100+ IoT locations using Milesight UC300, LTE MQTT/TLS, and AWS IoT Core.
-- Built Terraform-managed AWS infrastructure (VPC, ALB, ASG, EC2, S3, Timestream, DynamoDB, Lambda, SNS) with GitHub Actions CI/CD.
-- Implemented HA architecture with ALB health checks, scaling policies, and stateless EC2 design for zero-downtime updates.
-- Developed Lambda fault processor with DynamoDB logging and SNS alerts, reducing response time by 40% and network costs by 60%.
-- Created Grafana dashboards and CloudWatch/Synthetics monitoring for real-time telemetry and site health.
-
-
+- Designed, deployed, and managed production IoT applications on AWS EKS with high availability and scalability.
+- Migrated on-premises IoT applications to AWS EKS with zero downtime, improving reliability and operational efficiency.
+- Automated AWS infrastructure (VPC, EKS, EC2, S3, DynamoDB, Lambda) using Terraform and CI/CD pipelines.
+- Implemented observability and alerting using Grafana and Amazon CloudWatch, achieving a 60% reduction in network costs.
 
 ## 📄 Certifications
 
